@@ -2,6 +2,7 @@
 ; save new output variable; Author: Kevin Kuo, Allison Steiner
 ; ALS modifications 12 Oct 12 based on Zangvil et al., 2004
 
+
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_code.ncl"  
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_csm.ncl"  
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/contributed.ncl"
